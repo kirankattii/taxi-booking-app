@@ -1,8 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## This is demo:-  https://taxi-booking-app-kiran-kattis-projects.vercel.app/
 
-![Video Thumbnail]([https://img.youtube.com/vi/nQI8UNe6cfA/maxresdefault.jpg](https://1drv.ms/i/s!AlgAHUJUOilcitUGyJtPxwKBZRlFBw?e=0ctfsg))
 
+
+![taxi](https://github.com/kirankattii/taxi-booking-app/assets/139916130/1231bbb1-94f8-4da8-a81c-dd17557d1696)
 
 ## Getting Started
 
